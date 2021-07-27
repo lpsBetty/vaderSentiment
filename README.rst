@@ -278,3 +278,6 @@ Feel free to let me know about ports of VADER Sentiment to other programming lan
 
 #. R
 	`R Vader <https://cran.r-project.org/web/packages/vader/index.html>`_ by  Katie Roehrick
+
+#. Ruby
+	`vader_sentiment_ruby <https://github.com/nbulavin/vader_sentiment_ruby>`_ by  nbulavin
